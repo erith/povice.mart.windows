@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoviMarketLib", "PoviMarketLib\PoviMarketLib.csproj", "{2388FE79-B193-4FC4-844A-41C1670AE688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{4E85676D-F162-4C76-B8E1-CEA31449261C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{8AAEFD6A-EE01-4998-BD9E-C39371C4EA9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2388FE79-B193-4FC4-844A-41C1670AE688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2388FE79-B193-4FC4-844A-41C1670AE688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2388FE79-B193-4FC4-844A-41C1670AE688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2388FE79-B193-4FC4-844A-41C1670AE688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E85676D-F162-4C76-B8E1-CEA31449261C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E85676D-F162-4C76-B8E1-CEA31449261C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E85676D-F162-4C76-B8E1-CEA31449261C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E85676D-F162-4C76-B8E1-CEA31449261C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AAEFD6A-EE01-4998-BD9E-C39371C4EA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AAEFD6A-EE01-4998-BD9E-C39371C4EA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AAEFD6A-EE01-4998-BD9E-C39371C4EA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AAEFD6A-EE01-4998-BD9E-C39371C4EA9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
